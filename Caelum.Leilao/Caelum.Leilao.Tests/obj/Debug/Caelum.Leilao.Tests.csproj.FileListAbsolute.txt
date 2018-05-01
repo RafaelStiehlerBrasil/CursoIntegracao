@@ -1,0 +1,13 @@
+C:\Users\rafin\OneDrive\Documentos\Alura\CursoIntegracao\Caelum.Leilao\Caelum.Leilao.Tests\obj\Debug\Caelum.Leilao.Tests.csprojResolveAssemblyReference.cache
+C:\Users\rafin\OneDrive\Documentos\Alura\CursoIntegracao\Caelum.Leilao\Caelum.Leilao.Tests\obj\Debug\Caelum.Leilao.Tests.csproj.CoreCompileInputs.cache
+C:\Users\rafin\OneDrive\Documentos\Alura\CursoIntegracao\Caelum.Leilao\Caelum.Leilao.Tests\bin\Debug\Caelum.Leilao.Tests.dll
+C:\Users\rafin\OneDrive\Documentos\Alura\CursoIntegracao\Caelum.Leilao\Caelum.Leilao.Tests\bin\Debug\Caelum.Leilao.Tests.pdb
+C:\Users\rafin\OneDrive\Documentos\Alura\CursoIntegracao\Caelum.Leilao\Caelum.Leilao.Tests\bin\Debug\Caelum.Leilao.dll
+C:\Users\rafin\OneDrive\Documentos\Alura\CursoIntegracao\Caelum.Leilao\Caelum.Leilao.Tests\bin\Debug\nunit.framework.dll
+C:\Users\rafin\OneDrive\Documentos\Alura\CursoIntegracao\Caelum.Leilao\Caelum.Leilao.Tests\bin\Debug\Caelum.Leilao.pdb
+C:\Users\rafin\OneDrive\Documentos\Alura\CursoIntegracao\Caelum.Leilao\Caelum.Leilao.Tests\bin\Debug\Caelum.Leilao.dll.config
+C:\Users\rafin\OneDrive\Documentos\Alura\CursoIntegracao\Caelum.Leilao\Caelum.Leilao.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\rafin\OneDrive\Documentos\Alura\CursoIntegracao\Caelum.Leilao\Caelum.Leilao.Tests\bin\Debug\nunit.framework.xml
+C:\Users\rafin\OneDrive\Documentos\Alura\CursoIntegracao\Caelum.Leilao\Caelum.Leilao.Tests\obj\Debug\Caelum.Leilao.Tests.csproj.CopyComplete
+C:\Users\rafin\OneDrive\Documentos\Alura\CursoIntegracao\Caelum.Leilao\Caelum.Leilao.Tests\obj\Debug\Caelum.Leilao.Tests.dll
+C:\Users\rafin\OneDrive\Documentos\Alura\CursoIntegracao\Caelum.Leilao\Caelum.Leilao.Tests\obj\Debug\Caelum.Leilao.Tests.pdb
